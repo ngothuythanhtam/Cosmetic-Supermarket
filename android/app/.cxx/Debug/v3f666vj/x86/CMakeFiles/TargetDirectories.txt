@@ -1,0 +1,2 @@
+D:/ct312hm01-project-ngothuythanhtam/android/app/.cxx/Debug/v3f666vj/x86/CMakeFiles/edit_cache.dir
+D:/ct312hm01-project-ngothuythanhtam/android/app/.cxx/Debug/v3f666vj/x86/CMakeFiles/rebuild_cache.dir

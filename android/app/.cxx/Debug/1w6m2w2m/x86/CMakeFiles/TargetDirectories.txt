@@ -1,0 +1,2 @@
+D:/Merge/ct312hm01-project-ngothuythanhtam/android/app/.cxx/Debug/1w6m2w2m/x86/CMakeFiles/edit_cache.dir
+D:/Merge/ct312hm01-project-ngothuythanhtam/android/app/.cxx/Debug/1w6m2w2m/x86/CMakeFiles/rebuild_cache.dir
